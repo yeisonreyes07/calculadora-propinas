@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Tips Calculator App 
 
 This project is available in https://calculadora-propinas.web.app/
 
